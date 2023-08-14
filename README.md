@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/ajani-green-83b469225/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
     </a>
+    <a href="https://ajani.me/">
+      <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=superuser&logoColor=white" alt="Portfolio Badge"/>  
+    </a>
   </div>
 </div>
 
