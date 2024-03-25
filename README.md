@@ -16,16 +16,16 @@
 
 ## 👨🏾‍🦱 About Me
 My name is Ajani Green and I am a student Full Stack Developer from Jamaica 🇯🇲.
-In terms of general interests, I'd consider myself an all rounder. Any topic, once interesting enough, will catch my attention.
+In terms of general interests, I'm an all-rounder. Any topic, once interesting enough, will catch my attention.
 So yes, like most other people, I did have that one Minecraft phase and now I'm starting to get attached to cat videos.
 
-In terms of technical interests, I like experimenting. I started off with the regular command line applications, as a budding Software Developer usually does, in C. It was fascinating learning I could control my computer with instructions I gave it. Eventually, I learned about the world of APIs and microservices, and fell in love with Discord's API. It was at this point where I decided to learn Java (a personal favourite). Presently (January 2023), I am in my web development phase where I am interacting with Typescript and various APIs and frameworks <b>a lot</b> more. The next stepping stone for me is mobile app development for both Android and iOS devices. I hope to document every step of my journey through this profile.
+In terms of technical interests, I like experimenting. I started with the regular command line applications, as a budding Software Developer usually does, in C. It was fascinating learning I could control my computer with the instructions I gave it. Eventually, I learned about the world of APIs and microservices and fell in love with Discord's API. It was at this point that I decided to learn Java (a personal favourite). Presently (March 2024), I am in my web development phase where I am interacting with Typescript and various APIs and frameworks <b>a lot</b> more. My next stepping stone is mobile app development for Android and iOS devices. I plan to document every step of my journey through this profile.
 
 If all of that was too long for you, here's a little TL;DR:
-- 👨🏾‍💻 I am a full-stack engineer with a wide range of interests and technical skills. I am now mainly invested in Web Development and hope to gain opportunies in the realm of Mobile App Development.
+- 👨🏾‍💻 I am a full-stack engineer with a wide range of interests and technical skills. I am now mainly invested in Web Development and hope to gain opportunities in the realm of Mobile App Development.
 
 ## What Exactly I Can Do
-- 👷🏾‍♂️ I can build front-end web apps using ReactJS and/or Next.js. Of course I am able to do this with vanilla Javascript, HTML and CSS.
+- 👷🏾‍♂️ I can build front-end web apps using ReactJS and/or Next.js. Of course, I can do this with vanilla Javascript, HTML and CSS.
 - ⚙️ I can build back-end web apps using NestJS, Express, Spring or Ktor.
 - 🤖 I can develop Discord bots for a majority of purposes you can think of.
 - 🎨 I can design beautiful user interfaces for web apps using Figma.
